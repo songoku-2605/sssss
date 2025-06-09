@@ -36,8 +36,6 @@ pip install -r requirements.txt
 
 requirements.txt content:
 
-Copy
-Edit
 pandas
 numpy
 matplotlib
